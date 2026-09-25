@@ -2,11 +2,11 @@ body {
   font-family: system-ui;
   background: #f06d06;
   color: blue;
-  text-align: center;
+  text-align: center:!important;
 }
 ol {
-  display: inline-block;
-  text-align: left;
-
+  display: inline-block:!important;
+  text-align: left:!important;
+list-style-position:inside;
   padding: 0 !important;
 }
