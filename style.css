@@ -7,6 +7,6 @@ body {
 ol {
   display: inline-block;
   text-align: left;
-  list-style-position: inside;
+
   padding: 0 !important;
 }
